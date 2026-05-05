@@ -12,7 +12,8 @@ This repository contains a complete machine learning workflow using the classic 
 titanic-survival-prediction/
 │
 ├── data/
-│   ├── Titanic_dataset.csv         # Dataset used for EDA and model training
+│   ├── Titanic_dataset.csv         # Dataset used for EDA
+    ├── Titanic_processed.csv       # Processed data used for model training
 │
 ├── notebooks/
 │   ├── 01_titanic_eda.ipynb           # Exploratory Data Analysis & visualisations
