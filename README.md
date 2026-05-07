@@ -14,6 +14,13 @@ The project is organized sequentially to reflect the data science pipeline:
         ├── 02_logistic_regression.ipynb    # Baseline linear modeling & scaling
         └── 03_random_forest.ipynb          # Non-linear modeling & hyperparameter tuning
 
+## 📊 Dataset
+The data used in this project is the classic **Titanic - Machine Learning from Disaster** dataset provided by Kaggle. 
+
+**Dataset Link:** [Kaggle - Titanic Data](https://www.kaggle.com/c/titanic/data)
+
+It contains 891 entries in the training set, including features such as passenger names, ages, ticket class, and gender, which serve as the foundation for the survival predictions.
+
 
 ## 🧠 Workflow & Methodology
 
